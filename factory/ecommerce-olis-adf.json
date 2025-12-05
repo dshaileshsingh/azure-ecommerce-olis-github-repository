@@ -1,0 +1,9 @@
+{
+	"name": "ecommerce-olis-adf",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "367c5106-0b21-413e-8c1a-99a60dba9812",
+		"tenantId": "e04b4845-de63-45cc-aa7e-d0412d8dcf0e"
+	}
+}
